@@ -19,7 +19,11 @@
 }
 
 @centered{
-@image["./pics/me.png"]
+ @image["./pics/me.png"]
+  
+}
+
+@centered{         @hyperlink["https://drive.google.com/file/d/1-3oV5NyUhTHEoLZkHoa1-C-LdzSPwhqo/view"]{Resume}
 }
 
 @; ------------------------------------------------------------------------

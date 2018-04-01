@@ -62,3 +62,14 @@ Northeastern University chapter of the Association of Computing Machinery.
 Expose students to a diverse range of computer science topics, and build a community within the university.
 }
 
+@;--------------------------------------------------------------------------------------------
+@section[#:tag "reigningit"]{ReigningIt}
+@codeblock{Women Who Reign}
+
+Website: @hyperlink["https://reigningit.wordpress.com/2017/02/14/women-who-reign-yifan-xing/"]{Blogpost}
+
+@bold{Brief Introduction:}
+
+@codeblock{
+Creating a STEM dialogue inclusive of every woman
+}
