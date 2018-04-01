@@ -33,7 +33,7 @@
 @include-section["education.scrbl"]
 @include-section["honors-and-awards.scrbl"]
 @include-section["random.scrbl"]
-See @secref["about-me"].
+@;See @secref["about-me"].
 
 
 @;@item{@racket[url] is an optional URL. It is typeset in the

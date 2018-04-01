@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@title[#:tag "random"]{Random Stuff About Me}
+@title[#:tag "random"]{Random Stuff About Me :P}
 
 @section[#:tag "jung-test"]{Jung Test Results:}
 Extroverted (E) 51%

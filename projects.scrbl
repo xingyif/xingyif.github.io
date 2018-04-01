@@ -2,6 +2,7 @@
 
 @title[#:tag "projects"]{Open-Source Projects}
 
+@; TODO: change `source` to GitHub pic
 
 @;--------------------------------------------------------------------------------------------
 @section[#:tag "rafe"]{Raft: Distributed System}
