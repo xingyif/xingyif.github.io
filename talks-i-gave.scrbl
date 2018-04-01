@@ -1,3 +1,3 @@
 #lang scribble/manual
 
-@section{Talks I Gave}
+@title[#:tag "talks-i-gave"]{Talks I Gave}

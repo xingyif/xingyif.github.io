@@ -1,3 +1,3 @@
 #lang scribble/manual
 
-@section{Work Experience}
+@title[#:tag "work-experience"]{Work Experience}

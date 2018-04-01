@@ -27,7 +27,6 @@
 @include-section["about-me.scrbl"]
 @include-section["work-experience.scrbl"]
 @include-section["talks-i-gave.scrbl"]
-@index-section[]
 
 @section[#:tag "poetry"]{Of Mice and Cookies}
 See @secref["about-me"].
