@@ -1,3 +1,3 @@
 # xingyif.github.io
 
-Welcome to my [website](https://xingyif.github.io/yifan/)
+Welcome to my [website](https://xingyif.github.io/yifan/).
