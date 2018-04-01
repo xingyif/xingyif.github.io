@@ -12,8 +12,8 @@
  Hi, I am @bold{Yifan Xing}. A software engineer!
  
  Get in touch!
- @hyperlink["xing.yif@husky.neu.edu"]{Email} |
- @hyperlink["https://github.com/xingyif/racket-spark-light/tree/new-design"]{GitHub} |
+ @hyperlink["mailto:xing.yif@husky.neu.edu"]{Email} |
+ @hyperlink["https://github.com/xingyif"]{GitHub} |
  @hyperlink["https://www.linkedin.com/in/yifan-xing-b0a658b0/"]{LinkedIn} |
  @hyperlink["https://twitter.com/yifan_xing_e"]{Twitter}
 }
