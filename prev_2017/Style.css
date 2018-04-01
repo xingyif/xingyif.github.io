@@ -1,4 +1,5 @@
-
+ @import url(https://fonts.googleapis.com/css?family=Slabo+27px)
+ 
 .nav li {
   display: inline;
 }
@@ -29,7 +30,7 @@
 
 .jumbotron h1 {
  font-family: 'shift', sans-serif;
- @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+;
 }
 
 
