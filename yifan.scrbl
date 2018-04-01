@@ -23,10 +23,16 @@
 }
 
 @; ------------------------------------------------------------------------
-@table-of-contents[]
+@;table-of-contents[]
 @include-section["about-me.scrbl"]
-@include-section["work-experience.scrbl"]
 @include-section["talks-i-gave.scrbl"]
+@include-section["work-experience.scrbl"]
+@include-section["projects.scrbl"]
+@include-section["skills.scrbl"]
+@include-section["leadership.scrbl"]
+@include-section["education.scrbl"]
+@include-section["honors-and-awards.scrbl"]
+
 
 @section[#:tag "poetry"]{Of Mice and Cookies}
 See @secref["about-me"].
