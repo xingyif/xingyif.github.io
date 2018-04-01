@@ -34,8 +34,8 @@
 @include-section["honors-and-awards.scrbl"]
 
 
-@section[#:tag "poetry"]{Of Mice and Cookies}
-See @secref["about-me"].
+@section[#:tag "random"]{Random Stuff About Me}
+See @secref["random"].
 
 
 @;@item{@racket[url] is an optional URL. It is typeset in the
