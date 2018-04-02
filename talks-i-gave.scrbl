@@ -4,7 +4,7 @@
 
 @title[#:tag "talks-i-gave"]{Talks I Gave}
 
-I love speaking! :)
+I love giving and listening to talks! :)
 
 @;--------------------------------------------------------------------------------------------
 
@@ -15,14 +15,14 @@ I love speaking! :)
 Conference: ReactSphere
 Sponsor:    VirtualsLab
 Venue:
-            The Opera of Kraków 
-            Lubicz 48 
+            The Opera of Kraków
+            Lubicz 48
             31-512 Kraków
 }
 
-@hyperlink["https://react.sphere.it/"]{ReactSphere} is a conference focused on Reactive Programming and Reactive System Design. 
+@hyperlink["https://react.sphere.it/"]{ReactSphere} is a conference focused on Reactive Programming and Reactive System Design.
 
-It dives deep into the principles of building responsive distributed systems handling huge amounts of data with near-realtime performance. Microservice Architectures, Actors, Messaging Systems, methods for domain analysis, and more will be covered during lively talks. 
+It dives deep into the principles of building responsive distributed systems handling huge amounts of data with near-realtime performance. Microservice Architectures, Actors, Messaging Systems, methods for domain analysis, and more will be covered during lively talks.
 
 
 ------------------------------------------------@bold{Talk Abstract:}----------------------------------------------
