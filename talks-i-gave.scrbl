@@ -25,7 +25,7 @@ Venue:
 It dives deep into the principles of building responsive distributed systems handling huge amounts of data with near-realtime performance. Microservice Architectures, Actors, Messaging Systems, methods for domain analysis, and more will be covered during lively talks.
 
 
-------------------------------------------------@bold{Talk Abstract:}----------------------------------------------
+@centered{------------------------------------------@bold{Talk Abstract:}---------------------------------------}
 
 
 In the context of executing a task, a synchronous execution indicates that the program waits for the result of the first task before moving on to another task. In contrast, an asynchronous execution does not wait for the result of the first task and it starts executing another task immediately after the first task is executed. Both Futures & Promises and Monix are Scala libraries that allow users to efficiently perform asynchronous operations.
@@ -33,10 +33,17 @@ In the context of executing a task, a synchronous execution indicates that the p
 This talk will introduce Futures and Promises library in Scala.concurrent and Monix. We will walk through several examples that demonstrate how to use Futures and Promises and Monix. In addition, the talk compares and contrasts the similarities and differences between the two libraries. Furthermore, we will discuss some best practices in debugging asynchronous systems.
 
 
--------------------------------------------------@bold{Slides:}---------------------------------------------------
+@centered{------------------------------------------@bold{Slides:}----------------------------------------------}
 
 
 @italic{To Be Announced...}
+
+
+@centered{------------------------------------------@bold{Video:}----------------------------------------------}
+
+
+@italic{To Be Announced...}
+
 
 
 
