@@ -13,7 +13,7 @@ I love giving and listening to talks! :)
 
 @codeblock{
 Conference: ReactSphere
-Sponsor:    VirtualsLab
+Organizer:    VirtusLab
 Venue:
             The Opera of Kraków
             Lubicz 48
