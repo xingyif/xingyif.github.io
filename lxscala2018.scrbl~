@@ -1,0 +1,12 @@
+#lang scribble/manual
+
+@section[#:tag "asynchronous-in-scala" #:style 'unnumbered]{Asynchronous Programming: Scala.concurrent and Monix! What?}
+
+@codeblock{
+Conference: LX Scala
+Sponsor:    VirtualsLab
+Venue:
+            The Opera of Kraków
+            Lubicz 48
+            31-512 Kraków
+}
