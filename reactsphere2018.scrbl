@@ -36,13 +36,13 @@ This talk will introduce Futures and Promises library in Scala.concurrent and Mo
 @centered{------------------------------------------@bold{Slides:}----------------------------------------------}
 
 
-@italic{Slides can be found @hyperlink["https://speakerdeck.com/xingyif/asynchronous-programming-scala-dot-concurrent-and-monix-what"]{Here}!}
+@italic{Slides can be found @hyperlink["https://speakerdeck.com/xingyif/asynchronous-programming-scala-dot-concurrent-and-monix-what"]{here}!}
 
 
 @centered{------------------------------------------@bold{Video:}----------------------------------------------}
 
 
-@italic{To Be Announced...}
+@italic{Video can be found @hyperlink["https://www.youtube.com/watch?v=Wq9YbTeOkjA"]{here}!}
 
 
 
