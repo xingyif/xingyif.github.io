@@ -23,7 +23,7 @@
 
 }
 
-@centered{         @hyperlink["https://drive.google.com/drive/u/1/folders/1liAn1NNJ5FLZKQEjhAeCcmaj9156muiC"]{Resume}
+@centered{         @hyperlink["https://drive.google.com/file/d/1oL6COZ5fJ_Otm0_UETwLksJgGmZ__0gD/view?usp=sharing"]{Resume}
 }
 
 @; ------------------------------------------------------------------------
