@@ -10,7 +10,7 @@
 
 @centered{
  Hi, I am @bold{Yifan Xing}. A software engineer!
- 
+
  Get in touch!
  @hyperlink["mailto:xing.yif@husky.neu.edu"]{Email} |
  @hyperlink["https://github.com/xingyif"]{GitHub} |
@@ -20,10 +20,10 @@
 
 @centered{
  @image["./pics/me.png"]
-  
+
 }
 
-@centered{         @hyperlink["https://drive.google.com/file/d/1-3oV5NyUhTHEoLZkHoa1-C-LdzSPwhqo/view"]{Resume}
+@centered{         @hyperlink["https://drive.google.com/drive/u/1/folders/1liAn1NNJ5FLZKQEjhAeCcmaj9156muiC"]{Resume}
 }
 
 @; ------------------------------------------------------------------------
