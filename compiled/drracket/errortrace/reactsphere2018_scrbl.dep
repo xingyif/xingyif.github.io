@@ -1,1 +1,1 @@
-("6.12" ("7362b066e7622bd7d20b9368754e55d1760e2bb4" . "c57f6c7130b8808944ad43c245bdfa5fae5187fc") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))
+("6.12" ("e189b7c41d0e4776c04a4c9bd4283099ca19c4d8" . "943da4514e84fef18b6db0fc4170297517c62ba6") (collects #"pict" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scriblib" #"figure.rkt"))

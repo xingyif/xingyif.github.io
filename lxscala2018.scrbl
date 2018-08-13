@@ -1,6 +1,11 @@
 #lang scribble/manual
+@(require scriblib/figure)
+@(require pict)
 
-@title[#:tag "asynchronous-in-scala" #:style 'unnumbered]{Asynchronous Programming: Scala.concurrent and Monix!}
+@title[#:tag "lxscala2018" #:style 'unnumbered]{@hyperlink["http://www.lxscala.com/speakers/"]{LX Scala, Lisbon Portugal}}
+
+@centered{-------@bold{Asynchronous Programming: Scala.concurrent and Monix!}-------}
+
 
 @centered{Conference: @hyperlink["http://www.lxscala.com/"]{LX Scala}}
 
@@ -8,7 +13,18 @@
 @centered{Sponsor:  @hyperlink["http://www.enear.co/"]{e.near}}
 
 
+@hyperlink["https://react.sphere.it/"]{ReactSphere} is a conference focused on programming languages, Scala in particular.
+
+LXScala has been oragnized for the past three years. For the third time, Lisbon will host Scala experts from across Europe to discuss the present and future trends around the programming language.
+
 @centered{Lisbon, Portugal}
+
+@centered{
+ @image["./pics/lxscala.png"]
+
+}
+
+@hyperlink["https://twitter.com/LX_Scala"]{LXScala Twitter}
 
 
 @centered{------------------------------------------@bold{Slides:}----------------------------------------------}

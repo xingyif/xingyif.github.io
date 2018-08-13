@@ -1,11 +1,13 @@
 #lang scribble/manual
+@(require scriblib/figure)
+@(require pict)
 
 @; TODO include pictures of me, poland, and map
 @; TODO include slides in webpage
 
 @title[#:tag "reactsphere2018" #:style 'unnumbered]{@hyperlink["https://react.sphere.it/yifan-xing"]{ReactSphere, SPHERE.IT, Krakow Poland}}
 
-@centered{-------@bold{Asynchronous Programming: Scala.concurrent and Monix! What?:}-------}
+@centered{-------@bold{Asynchronous Programming: Scala.concurrent and Monix! What?}-------}
 
 @centered{Conference: @hyperlink["https://react.sphere.it/"]{ReactSphere}}
 @centered{Sponsor:    @hyperlink["https://virtuslab.com/"]{VirtusLab}}
