@@ -19,10 +19,8 @@ LXScala has been oragnized for the past three years. For the third time, Lisbon 
 
 @centered{Lisbon, Portugal}
 
-@centered{
- @image["./pics/lxscala.png"]
-
-}
+@image["./pics/lxscala-1.png"]
+@image["./pics/lxscala-me.png"]
 
 @hyperlink["https://twitter.com/LX_Scala"]{LXScala Twitter}
 
