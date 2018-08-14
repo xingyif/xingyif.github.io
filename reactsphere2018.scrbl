@@ -22,8 +22,11 @@
 
 It dives deep into the principles of building responsive distributed systems handling huge amounts of data with near-realtime performance. Microservice Architectures, Actors, Messaging Systems, methods for domain analysis, and more will be covered during lively talks.
 
-@hyperlink["https://twitter.com/ReactSphere"]{ReactSphere Twitter}
+@hyperlink["https://www.youtube.com/watch?v=Wq9YbTeOkjA"]{@image["./pics/reactsphere.png"]}
+@image["./pics/reactsphere-1.png"]
 
+
+@hyperlink["https://twitter.com/ReactSphere"]{ReactSphere Twitter}
 @hyperlink["https://twitter.com/sphereIT_conf"]{Sphere.IT Twitter}
 
 
@@ -43,7 +46,7 @@ This talk will introduce Futures and Promises library in Scala.concurrent and Mo
 
 @centered{------------------------------------------@bold{Video:}----------------------------------------------}
 
-
+@hyperlink["https://www.youtube.com/watch?v=Wq9YbTeOkjA"]{@image["./pics/reactsphere-talk.png"]}
 @italic{Video can be found @hyperlink["https://www.youtube.com/watch?v=Wq9YbTeOkjA"]{here}!}
 
 

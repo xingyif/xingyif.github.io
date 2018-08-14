@@ -5,11 +5,11 @@
 @; TODO include pictures of me, amsterdam, and map
 @; TODO include slides in webpage
 
-@title[#:tag "curryon2018" #:style 'unnumbered]{@hyperlink["http://www.curry-on.org/2018/sessions/distributed-systems-protocols-and-their-vulnerabilities.html"]{Curry On, Amsterdam}}
+@title[#:tag "curryon2018" #:style 'unnumbered]{@hyperlink["http://www.curry-on.org/2018/sessions/distributed-systems-protocols-and-their-vulnerabilities.html"]{Curry On Conf, Amsterdam}}
 
 @centered{-------@bold{Distributed Systems Protocols and their Vulnerabilities}-------}
 
-@centered{Conference: @hyperlink["http://www.curry-on.org/2018/"]{Curry On Conf}}
+@centered{Conference: @hyperlink["http://www.curry-on.org/2018/"]{CurryOn Conf}}
 @centered{
  Colocated conferences include @hyperlink["https://2018.ecoop.org/"]{ECOOP} and @hyperlink["https://conf.researchr.org/home/issta-2018"]{ISSTA}.
  Venue:
@@ -37,9 +37,7 @@ Curry On will be held in a different European city year-to-year, and it will alw
 
 @centered{------------------------------------------@bold{Talk Abstract:}---------------------------------------}
 
-Many messaging systems that are widely used in the industry, e.g., Kafka, use centralized distributed systems services to achieve reliability and consensus between servers. Companies in the industry use the services; however, only a few of them understand the details of the protocols. This talk brings the principles used in academia to the industry by introducing the common distributed systems protocols implemented underneath the popular services. In addition, this talk will compare the differences between how the protocols are used in both academia and the industry. It provides details of how the protocols, specifically Paxos and Raft, work, including how they elect leaders among servers, how they achieve consensus between machines, and how they reliability process and execute client commands. Therefore, it shows how the systems and services, which use the protocols, are enabled to have fault-tolerance, and to achieve confidentiality, integrity, authenticity, availability, etc.
-
-From the reliability and security point of view, the talk discusses how the protocols deal with machine failures, including leader failures and replicas failures. It shows the vulnerabilities and potential security issues exist in the protocols. Last but not least, we’ll take a look at what we can do to avoid the vulnerabilities when applying the academic theories in the industry.
+Many messaging systems that are widely used in the industry, e.g., Kafka, use centralized distributed systems services to achieve reliability and consensus between servers. Companies in the industry use the services; however, only a few of them understand the details of the protocols. This talk brings the principles used in academia to the industry by introducing the common distributed systems protocols implemented underneath the popular services. In addition, this talk will compare the differences between how the protocols are used in both academia and the industry. It provides details of how the protocols, specifically Paxos and Raft, work, including how they elect leaders among servers, how they achieve consensus between machines, and how they reliability process and execute client commands. Therefore, it shows how the systems and services, which use the protocols, are enabled to have fault-tolerance, and to achieve confidentiality, integrity, authenticity, availability, etc. From the reliability and security point of view, the talk discusses how the protocols deal with machine failures, including leader failures and replicas failures. It shows the vulnerabilities and potential security issues exist in the protocols. Last but not least, we’ll take a look at what we can do to avoid the vulnerabilities when applying the academic theories in the industry.
 
 @centered{------------------------------------------@bold{Slides:}----------------------------------------------}
 
