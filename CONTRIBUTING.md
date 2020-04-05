@@ -1,11 +1,11 @@
-#Contributing
+# Contributing
 Learn about how to contribute.
 
-##Install Racket
+## Install Racket
 Follow the instruction [here](https://docs.racket-lang.org/pollen/Installation.html) to download Racket.
 
 
-##Update Racket PATH
+## Update Racket PATH
 Update the PATH envi­ron­ment vari­able on your system to include the direc­tory that holds the racket appli­ca­tion. On Mac OS and Linux, this path will be some­thing like "/path/to/racket/bin".
 
 
@@ -65,7 +65,7 @@ If so, all is well. The > is the command prompt for Racket. Type ctrl+D or (exit
     
 [Source instructions](https://beautifulracket.com/setting-the-mac-os-path.html)
 
-##Raco Racket Package Manager
+## Raco Racket Package Manager
 Once you've setup racket path, you should be able to use raco. If you type `raco` in Terminal, you should see:
 
 ```
@@ -110,12 +110,12 @@ You should see this as output:
 scribble: expects <file> [<another-file>] ... on the command line, given 0 arguments
 ```
 
-##Using Scribble
+## Using Scribble CLI
 
 To generate multiple HTML pages ina directory:
 `scribble --htmls yifan.scrbl`
 
 [List of available scribble commands](https://docs.racket-lang.org/scribble/running.html)
 
-##Scribble Source
+## Scribble Source
 https://github.com/racket/scribble
