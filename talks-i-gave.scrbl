@@ -15,3 +15,5 @@ Yifan is an open-source contributor, speaker, ScalaBridge Boston organizer, and 
 @include-section["reactsphere2018.scrbl"]
 @include-section["lxscala2018.scrbl"]
 @include-section["curryon2018.scrbl"]
+@include-section["scalabythesea.scrbl"]
+@include-section["lambdale.scrbl"]
