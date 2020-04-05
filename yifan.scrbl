@@ -9,7 +9,7 @@
 @larger["Software Engineer"]
 
 @centered{
- Hi, I am @bold{Yifan Xing}. A software engineer!
+ Hi, I am @bold{Yifan Xing}. A code artist😉!
 
  Get in touch!
  @hyperlink["mailto:xing.yif@husky.neu.edu"]{Email} |
