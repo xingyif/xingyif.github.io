@@ -11,6 +11,7 @@
 
 @bold{Proficient:}
 @codeblock{
+           Go
            Java
            Scala
            Python
@@ -20,6 +21,8 @@
            Bash
            Assembly
            SQL
+           HTML/CSS
+           JSON, XML, Protobuf
 }
 
 @bold{Familiar:}
@@ -33,24 +36,31 @@
 @section[#:tag "lib"]{Libraries & Frameworks:}
 
 @codeblock{
- AKKA-HTTP, Spray, Futures & Promises, Monix
+ AKKA, AKKA-HTTP, Spray, Futures & Promises, Monix
  Rails, React, HornetQ, Slick, Bootstrap,
- A-Frame, Jacoco, MySQL, PL/SQL, Junit}
+ A-Frame, Jacoco, MySQL, PL/SQL,
+ Junit, Jacoco, Scalatest, Python unitest
+ }
 
 @;--------------------------------------------------------------------------------------------
-@section[#:tag "servers-tools"]{Servers & Tools:}
+@section[#:tag "servers-tools"]{Servers & Systems & Tools:}
 
 @codeblock{
- AWS SQS, Apache Spark, Apache Kafka,
- Maven, Vagrant, Tomcat, JBoss,
- Heroku, Git, Command Line, Vim,
+ Kubernetes, Apache Spark,
+ Maven, Jenkins, Vagrant, Puppet,
+ Tomcat, WideFly(JBoss),
+ Heroku, Git, Vim, Homebrew,
  PostgreSQL, Netezza, Oracle, Aginity,
- Netezza, Oracle, Aginity, Jira,
  Confluence, Eclipse, JetBrains Products
 }
 
 @;--------------------------------------------------------------------------------------------
 @section[#:tag "topics"]{Interested Topics}
 @codeblock{
-  Asynchronous, Distributed Systems, Network Security,
-  Big Data Processing, Parallel Programming}
+  Distributed Systems,
+  Consensus Algorithms,
+  Asynchronous Programming,
+  Network Security,
+  Big Data Processing,
+  Parallel Programming
+  }

@@ -21,14 +21,35 @@
 @;--------------------------------------------------------------------------------------------
 @title[#:tag "work-experience"]{Work Experience}
 
+
+@;--------------------------------------------------------------------------------------------
+@section[#:tag "software-engineer"]{Software Engineer}
+
+
+@codeblock|{
+  Apple 
+  January 2019 - Present
+  Cupertino, CA
+  }|
+
+@itemlist[
+ @item{I work on large scale distributed systems}
+ ]
+
+@;--------------------------------------------------------------------------------------------
 @section[#:tag "full-stack-developer"]{Full-Stack Software Engineer}
 
 
 @codeblock|{
   Northeastern University
-  March 2018 - Present
+  March 2018 - December 2018
   Greater Boston Area
   }|
+
+@itemlist[
+ @item{Design overall architecture of a PhD student management and reporting web application}
+ @item{Implement the full-stack project using MVC pattern in Django}
+ ]
 
 
 @;--------------------------------------------------------------------------------------------
@@ -90,7 +111,7 @@
 
 @codeblock|{
   Northeastern University College of Computer and Information Science
-  December 2015 - Present
+  December 2015 - May 2018
   Greater Boston Area
   }|
 
