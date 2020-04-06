@@ -113,7 +113,7 @@ scribble: expects <file> [<another-file>] ... on the command line, given 0 argum
 ## Using Scribble CLI
 
 To generate multiple HTML pages ina directory:
-`scribble --htmls yifan.scrbl`
+`scribble --htmls scribbles/yifan.scrbl`
 
 [List of available scribble commands](https://docs.racket-lang.org/scribble/running.html)
 
